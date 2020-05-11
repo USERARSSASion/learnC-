@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\develop\exp\c++方面\03-externc\03-externc\main.cpp(9): error C2733: “func”: 不允许重载函数的第二个 C 链接
+  d:\develop\exp\c++方面\03-externc\03-externc\main.cpp(5): note: 参见“func”的声明
