@@ -34,5 +34,13 @@ int main() {
 	int c = add(10, 20);
 	cout << c << endl;
 
+	int age = 10;
+	const int  *p0 = $age;
+	int const *p1 = $age;
+	int * const p2 = $age;
+	const int * const p3 = $age;
+	int const * const p4 = $age;
+	// const 修饰的是其右边的内容
+
 	return 0;
 }
